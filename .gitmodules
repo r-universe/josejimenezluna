@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "abodOutlier"]
+	path = abodOutlier
+	url = https://github.com/josejimenezluna/abodoutlier
+	shallow = true
+	registered = true
