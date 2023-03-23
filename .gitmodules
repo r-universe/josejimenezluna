@@ -8,3 +8,8 @@
 	url = https://github.com/josejimenezluna/abodoutlier
 	shallow = true
 	registered = true
+[submodule "odseq"]
+	path = odseq
+	url = https://git.bioconductor.org/packages/odseq
+	shallow = true
+	registered = true
