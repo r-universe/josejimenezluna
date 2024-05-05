@@ -5,6 +5,3 @@
 [submodule "abodOutlier"]
 	path = abodOutlier
 	url = https://github.com/josejimenezluna/abodoutlier
-[submodule "odseq"]
-	path = odseq
-	url = https://git.bioconductor.org/packages/odseq
